@@ -1,5 +1,5 @@
 # Global-Freelancing-Data
-Data Visualization - Dashboard
+**Data Visualization - Dashboard**
 
 **Project Overview**
 
@@ -9,13 +9,13 @@ This Freelancer Dataset Project focuses on Exploring, Cleaning, and analyzing da
 **Objective Dataset Description**
 
 The main goal of the project is to understand performance ratings with skill trends in freelance platforms by analyzing factors such as:
-Freelancer ID, Name, Country, Skills, No.of projects, Duation etc.,
+Freelancer ID, Name, Country, Skills, No.of projects, Duration etc.,
 
 **Key Analytical Insights**
 
-Relation between Skills, ratings and earnings per hourin USD
+Relation between Skills, ratings and earnings per hour in USD
 
-Client satisfication and No. of projects with duration
+Client satisfaction and No. of projects with duration
 
 Gender and count analysis
 
@@ -27,7 +27,7 @@ Using conditions to fill blank values
 
 Handling missing values and Standardizing categories
 
-Outlier detecion, Conditional Formatting and Databars
+Outlier detetcion, Conditional Formatting and Databars
 
 Advanced Visualization Techniques like Charts, Pivot table and Analysis Toolpak
 
@@ -36,4 +36,5 @@ Slicers, filters and Dynamic calculations
 Dashboard Creation
 
 **Conclusion**
-The analysis of the freelancer Dataset provides valuable insights throught data expolration and visualization. Visual Dashboard frther revealed geographic distributions, variations in hourly rates and relationships between skills, experience and client ratings.
+
+The analysis of the freelancer Dataset provides valuable insights through data expolration and visualization. Visual Dashboard further revealed geographic distributions, variations in hourly rates and relationships between skills, experience and client ratings.
